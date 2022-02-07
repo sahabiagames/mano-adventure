@@ -1,11 +1,12 @@
 ﻿{
-	"version": 1644139178,
+	"version": 1644217699,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
 		"images/buttonarrowupsprite-sheet0.png",
 		"images/buttonarrowupsprite-sheet1.png",
 		"images/buttonarrowupsprite2-sheet0.png",
@@ -27,6 +28,7 @@
 		"images/sprite8-sheet0.png",
 		"images/tiledbackground.png",
 		"images/spritedrog-sheet0.png",
+		"images/spritedrog-sheet1.png",
 		"images/tag-sheet0.png",
 		"images/تهچپ-sheet0.png",
 		"images/spriteحرکتی-sheet0.png",
